@@ -7,7 +7,7 @@ from aioapp.error import PrepareError
 from aioapp.tracer import (Span, CLIENT, SPAN_TYPE, SPAN_KIND)
 
 
-__version__ = '0.0.1a1'
+__version__ = '0.0.1b1'
 
 
 SPAN_TYPE_REDIS = 'redis'
